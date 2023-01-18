@@ -80,5 +80,3 @@ void MainWindow::on_responsesField_historyChanged()
 {
 
 }
-
-

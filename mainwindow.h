@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QTcpSocket>
+#include "models.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
